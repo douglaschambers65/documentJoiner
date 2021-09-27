@@ -1,0 +1,38 @@
+DEL U-PBFCC
+DEL UTPBFCC
+NEW SOYA-U2 YYYYYY 56 0 0 0 0 SOYAU2
+LSN SOYA-U2 "SOYA SEP 2022"
+NEW SUNS-U2 YYYYYY 56 0 0 0 0 SUNSU2
+LSN SUNS-U2 "SUNS SEP 2022"
+NEW WEAT-U2 YYYYYY 56 0 0 0 0 WEATU2
+LSN WEAT-U2 "WEAT SEP 2022"
+NEW WMAZ-U2 YYYYYY 56 0 0 0 0 WMAZU2
+LSN WMAZ-U2 "WMAZ SEP 2022"
+NEW YMAZ-U2 YYYYYY 56 0 0 0 0 YMAZU2
+LSN YMAZ-U2 "YMAZ SEP 2022"
+NEW AMSSBO YYYYYN 2 21 0 0 0 AMSSBO 20220607 15500 1250 C A AMS SB
+LSN AMSSBO "AMSSBO SB AMS C American 0.00125 15500 80880 SE"
+NEW GFISBL YYYYYN 2 21 0 0 0 GFISBL 20220607 13500 13330 C A GFI SB
+LSN GFISBL "GFISBL SB GFI C American 0.01333 13500 80880 SE"
+NEW IMPSBO YYYYYN 2 21 0 0 0 IMPSBO 20220607 20000 12500 C A IMP SB
+LSN IMPSBO "IMPSBO SB IMP C American 0.0125 20000 80880 SE"
+NEW U-SHEQB1 YYYYYN 52 0 0 0 0 SHEQB1
+LSN U-SHEQB1 "27four Shari'ah Active Equity B1"
+REN STENPROP FRONTIERT Z FTH
+LSN FRONTIERT "FRONTIER TRANSPORT HLDG LTD"
+REN HOSKEN INDREIT Z MLI
+LSN INDREIT "INDUSTRIALS REIT LTD"
+REN NORTHAM NORTHAM Z NPH
+LSN NORTHAM "NORTHAM PLATINUM HLDG LTD"
+
+*************************************************************************
+*                                                                       *
+*    Software and Parameter file copyright InvestorData (Pty) Ltd 2021  *
+*                                                                       *
+*    All JSE originated data copyright JSE (Pty) Ltd                    *
+*                                                                       *
+*    Report piracy to BSA          on (080) 011-0447 OR                 *
+*                     Mike Jenkins on (082) 785-1977                    *
+*    and receive a reward of up to R25,000 for a conviction !           *
+*                                                                       *
+*************************************************************************

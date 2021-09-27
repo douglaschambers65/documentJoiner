@@ -1,0 +1,30 @@
+NEW DSYSBC YYYYYN 0 0 0 0 0 DSYSBC
+LSN DSYSBC ""
+DEL SPIB19
+DEL IB-SPIB27
+NEW UBNPNV YYYYYN 0 0 0 0 0 UBNPNV
+LSN UBNPNV ""
+NEW UBNPNW YYYYYN 0 0 0 0 0 UBNPNW
+LSN UBNPNW ""
+NEW UBNPNX YYYYYN 0 0 0 0 0 UBNPNX
+LSN UBNPNX ""
+NEW UBNPNY YYYYYN 0 0 0 0 0 UBNPNY
+LSN UBNPNY ""
+NEW UBRMIC YYYYYN 0 0 0 0 0 UBRMIC
+LSN UBRMIC ""
+NEW MTNSBI YYYYYN 2 21 0 0 0 MTNSBI 20220607 14500 20000 C A MTN SB
+LSN MTNSBI "MTNSBI SB MTN C American 0.02 14500 80880 SE"
+NEW U-PBACA1 YYYYYN 52 0 0 0 0 PBACA1
+LSN U-PBACA1 "Prowess Bond 27Four A1"
+
+*************************************************************************
+*                                                                       *
+*    Software and Parameter file copyright InvestorData (Pty) Ltd 2021  *
+*                                                                       *
+*    All JSE originated data copyright JSE (Pty) Ltd                    *
+*                                                                       *
+*    Report piracy to BSA          on (080) 011-0447 OR                 *
+*                     Mike Jenkins on (082) 785-1977                    *
+*    and receive a reward of up to R25,000 for a conviction !           *
+*                                                                       *
+*************************************************************************
