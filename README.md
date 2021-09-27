@@ -1,21 +1,25 @@
-# documentJoiner
-Taking text documents, removing unwanted strings and then joining them all into one text file using python.
+## documentJoiner
+Taking text documents, removing unwanted strings and then joining them all into one text file.
+Written using Python 3.9.7
 
-======================
+## Contributors
 
-This code was written as a learning project on 24 September 2021. 
+Douglas Chambers (Original Author)
+Lloyd Lopes (Oversight)
+
+## Purpose
+
+To take information contained in multiple standard flat text files and combine them into a single file with some processing.
+
+## Background
 
 We needed to take a lot of text documents that have information about share changes and put it all into one file.
 
 I broke this project into bits:
 
 1 - Getting filenames from folder.
-
 2 - Going through filenames and re-writing that information to another text document.
-
 3 - Adding the date of the file to the text document.
-
 4 - Taking the text document with all the information in it and going through and deleting specific strings we do not need.
-
 5 - Write that information to another text document.
 
