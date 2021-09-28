@@ -1,0 +1,48 @@
+NEW AMS-2H17 YYYYYY 56 0 0 0 0 AMS-2H17
+LSN AMS-2H17 "1062287:17MAR22 AMS PHY DN"
+NEW BSK013-1Z15 YYYYYY 56 0 0 0 0 BSK013-1Z15
+LSN BSK013-1Z15 "1066140:15DEC21 BSK013 CSH"
+NEW BSK027-1Z15 YYYYYY 56 0 0 0 0 BSK027-1Z15
+LSN BSK027-1Z15 "1062153:15DEC21 BSK027 PHY DN"
+NEW BSK080-1Z15 YYYYYY 56 0 0 0 0 BSK080-1Z15
+LSN BSK080-1Z15 "1062238:15DEC21 BSK080 PHY DN"
+NEW BSK095-1Z15 YYYYYY 56 0 0 0 0 BSK095-1Z15
+LSN BSK095-1Z15 "1062527:15DEC21 BSK095 PHY DN"
+NEW CPI-2H17-03 YYYYYY 56 0 0 0 0 CPI-2H17-03
+LSN CPI-2H17-03 "1065922:17MAR22 CPI CSH DN"
+NEW DSY-1Z15-03 YYYYYY 56 0 0 0 0 DSY-1Z15-03
+LSN DSY-1Z15-03 "1061299:15DEC21 DSY CSH"
+NEW MTM-1Z15-01 YYYYYY 56 0 0 0 0 MTM-1Z15-01
+LSN MTM-1Z15-01 "1062275:15DEC21 MTM CSH"
+NEW NPH-1U16 YYYYYY 56 0 0 0 0 NPH-1U16
+LSN NPH-1U16 "1071279:16SEP21 NPH PHY DN"
+NEW NPH-1Z15 YYYYYY 56 0 0 0 0 NPH-1Z15
+LSN NPH-1Z15 "1071280:15DEC21 NPH PHY DN"
+NEW PIK-2H17 YYYYYY 56 0 0 0 0 PIK-2H17
+LSN PIK-2H17 "1065621:17MAR22 PIK CSH CFD RODI"
+NEW PRX-1Z15-03 YYYYYY 56 0 0 0 0 PRX-1Z15-03
+LSN PRX-1Z15-03 "1061309:15DEC21 PRX CSH"
+NEW RMI-1Z15-02 YYYYYY 56 0 0 0 0 RMI-1Z15-02
+LSN RMI-1Z15-02 "1062057:15DEC21 RMI CSH"
+NEW S32-1Z15 YYYYYY 56 0 0 0 0 S32-1Z15
+LSN S32-1Z15 "1062132:15DEC21 S32 PHY DN"
+NEW U-APWWFR YYYYYN 52 0 0 0 0 APWWFR
+LSN U-APWWFR "Aboutir Prime Worldwide Flexible R"
+NEW U-FNBBLA YYYYYN 52 0 0 0 0 FNBBLA
+LSN U-FNBBLA "SCB ATF FNB Core Balanced A"
+NEW U-FNBBLZ YYYYYN 52 0 0 0 0 FNBBLZ
+LSN U-FNBBLZ "SCB ATF FNB Core Balanced Z"
+REN NORTHAM NORTHAM Z NHM
+LSN NORTHAM "Northam Platinum Hldgs L"
+
+*************************************************************************
+*                                                                       *
+*    Software and Parameter file copyright InvestorData (Pty) Ltd 2021  *
+*                                                                       *
+*    All JSE originated data copyright JSE (Pty) Ltd                    *
+*                                                                       *
+*    Report piracy to BSA          on (080) 011-0447 OR                 *
+*                     Mike Jenkins on (082) 785-1977                    *
+*    and receive a reward of up to R25,000 for a conviction !           *
+*                                                                       *
+*************************************************************************
